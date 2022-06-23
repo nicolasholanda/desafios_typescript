@@ -84,8 +84,8 @@ interface MovieSearchResult {
 
 let apiKey = '500bed2f9e7c062f034335752ed0d81c';
 let requestToken;
-let username = "testedio";
-let password = "teste@dio@";
+let username;
+let password;
 let sessionId;
 let listId = '7101979';
 
